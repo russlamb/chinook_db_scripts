@@ -2,7 +2,9 @@
 # Chinook Database Scripts
 This repository contains pre-built SQL scripts to generate all tables and data for an example database called the Chinook database.  
 
-For more information about the Chinook database see the archived [codeplex](https://archive.codeplex.com/?p=chinookdatabase) page or the official [github page](https://github.com/lerocha/chinook-database)
+This repository is not affiliated with the official Chinook project.  
+
+For more information about the Chinook project database see the archived [codeplex](https://archive.codeplex.com/?p=chinookdatabase) page or the official [github page](https://github.com/lerocha/chinook-database)
 
 ## About
 ### The Example Database
