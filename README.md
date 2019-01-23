@@ -25,7 +25,7 @@ The Chinook database is desirable because it is an open-source, easily portable,
 If you don't need to run Chinook on a specific database platform and want to get started using a sample database right away, use the pre-generated SQLite example database.  
 
 ### SQLite Prebuilt Database
-The file Chinook_Sqlite.sqlite contains a fully built database in the SQLite dialect.  You can download and use it directly with the database viewer of your choice.  One recommended viewer is [DB Browser for SQLite](https://sqlitebrowser.org/)
+The file Chinook_Sqlite.sqlite contains a fully built database in the SQLite database format.  You can download and use it directly with the database viewer of your choice.  One recommended viewer is [DB Browser for SQLite](https://sqlitebrowser.org/)
 
 ## Build Your Own
 To use the scripts to build your database, please follow these instructions.
