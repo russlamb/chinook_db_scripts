@@ -7,7 +7,7 @@ This repository is not affiliated with the official Chinook project.
 For more information about the Chinook project database see the archived [codeplex](https://archive.codeplex.com/?p=chinookdatabase) page or the official [github page](https://github.com/lerocha/chinook-database)
 
 ## About
-### The Example Database
+### The Database
 The Chinook Database is a database used for learning or testing purposes.  It is modeled on a music library and purchase history of music Tracks as well as the Invoices and Customers that bought each track.
 
 ![Chinook Object Schema](https://i.imgur.com/dQVcUUg.jpg)
