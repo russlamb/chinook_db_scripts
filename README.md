@@ -13,11 +13,11 @@ The Chinook Database is a database used for learning or testing purposes.  It is
 The scripts in this repository are the results of building the [Chinook database project](https://github.com/lerocha/chinook-database) in Visual studio.  These scripts can be run on a database to create a fully populated database.
 
 ### Get Started Easily
-The official database requires Visual Studio to build and generate the SQL for several database dialects.  This repository was created to help people who don't have access to Visual Studio but want to use Chinook.  
+The official Chinook project requires Visual Studio to build and generate the SQL for several database dialects.  This repository was created to help people who don't have access to Visual Studio but want to use the Chinook sample database.  
 
 By generating and saving the scripts in this repository, anyone can easily download and run this script to have a populated database quickly without having to use Visual Studio.  
 
-The Chinook database is desirable because it is an open-source, easily portable, free example database for multiple database platforms.  This makes the Chinook database a good teaching tool for people learning to use databases.  
+The Chinook database is desirable because it is an open-source, easily portable, free example database for multiple database platforms.  It contains logical relationships between objects, e.g. Artist and Track, and is a familiar subject matter.  This makes the Chinook database a good teaching tool for people learning to use databases.  
 
 ## Usage
 
