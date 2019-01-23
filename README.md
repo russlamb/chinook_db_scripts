@@ -19,9 +19,14 @@ By generating and saving the scripts in this repository, anyone can easily downl
 
 The Chinook database is desirable because it is an open-source, easily portable, free example database for multiple database platforms.  This makes the Chinook database a good teaching tool for people learning to use databases.  
 
-## Usage
+## Quickstart Sample
+If you don't need to run Chinook on a specific database platform and want to get started using a sample database right away, use the pre-generated SQLite example database.  
+
 ### SQLite Example
 The file Chinook_Sqlite.sqlite contains a fully built example in the SQLite dialect.  You can download and use it directly with the database viewer of your choice.  One recommended viewer is [DB Browser for SQLite](https://sqlitebrowser.org/)
+
+## Build Your Own
+To use the scripts to build your database, please follow these instructions.
 
 ### Choose a Script
 Find the SQL dialect for your database.  Current scripts include [MySQL](https://www.mysql.com/), [Oracle](https://www.oracle.com/database/), [SQLite](https://www.sqlite.org/index.html), and [Microsoft SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-editions-express).  
